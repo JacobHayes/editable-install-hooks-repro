@@ -1,5 +1,7 @@
 # editable-install-hooks-repro
-Reproduce static analysis tool issues with editable installs from setuptools v64
+Reproduce static analysis tool issues with editable installs from setuptools v64:
+- https://github.com/pypa/setuptools/issues/3518
+- https://github.com/python/mypy/issues/13392
 
 ```sh
 $ cd pkg2
