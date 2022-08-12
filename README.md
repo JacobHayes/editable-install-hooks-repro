@@ -23,7 +23,7 @@ $ pylint src/
 ************* Module org.pkg2
 src/org/pkg2/__init__.py:2:0: E0611: No name 'pkg1' in module 'org' (no-name-in-module)
 
---------------------------------------------------------------------
+-----------------------------------
 Your code has been rated at 0.00/10
 
 #### Now, go back to the old style editable installs and try again
@@ -37,6 +37,6 @@ Success: no issues found in 1 source file
 $ pylint src/
 
 --------------------------------------------------------------------
-Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+Your code has been rated at 10.00/10 (previous run: 0.00/10, +10.00)
 
 ```
